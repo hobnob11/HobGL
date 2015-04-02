@@ -1,4 +1,4 @@
-#include "Core/Shader_Loader.h" //! Correction 1/12/2015
+#include "Shader_Loader.h" 
 #include<iostream>
 #include<fstream>
 #include<vector>
